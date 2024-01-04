@@ -4,13 +4,15 @@
         "website":"https://metamask.io/",
         "avatarUrl": "https://github.com/MetaMask/brand-resources/raw/master/SVG/SVG_MetaMask_Icon_Color.svg ",
         "type":"EOA",
-        "info":"MetaMask 允许用户存储及管理账号私钥,广播交易,发送和接收基于Ethereum的加密货币和代币,并通过兼容的内置浏览器安全地连接到去中心化应用。开发人员通过使用JavaScript插件(如Web3js或Ethers)来定义 MetaMask 如何和智能合约之间互动,实现MetaMask和去中心化应用之间的连接。"
+        "info":"MetaMask 允许用户存储及管理账号私钥,广播交易,发送和接收基于Ethereum的加密货币和代币,并通过兼容的内置浏览器安全地连接到去中心化应用。开发人员通过使用JavaScript插件(如Web3js或Ethers)来定义 MetaMask 如何和智能合约之间互动,实现MetaMask和去中心化应用之间的连接。",
+        "id": "0"
     },
     "1": {
         "name": "OKX AAwalte",
         "website":"https://www.okx.com/cn/web3/hot/aawallet",
         "avatarUrl":"https://www.okx.com/cdn/assets/imgs/226/A3761A1FE9F1C1CB.png",
         "type":"AA",
-        "info":"OKX AA 智能合约钱包结合了外部帐户(EOA)和合约帐户(CA)的优点,提供更高的安全性、方便性与效率,为区块链钱包创建更多可能,降低新手的学习门槛。"
+        "info":"OKX AA 智能合约钱包结合了外部帐户(EOA)和合约帐户(CA)的优点,提供更高的安全性、方便性与效率,为区块链钱包创建更多可能,降低新手的学习门槛。",
+        "id": "1"
     }
 }
