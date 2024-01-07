@@ -1,7 +1,7 @@
 {
     "0":{
         "name":"MetaMask",
-        "website":"https://metamask.io/",
+        "website":"https://metamask.io",
         "avatarUrl": "https://github.com/MetaMask/brand-resources/raw/master/SVG/SVG_MetaMask_Icon_Color.svg ",
         "type":"EOA",
         "info":"MetaMask 允许用户存储及管理账号私钥,广播交易,发送和接收基于Ethereum的加密货币和代币,并通过兼容的内置浏览器安全地连接到去中心化应用。开发人员通过使用JavaScript插件(如Web3js或Ethers)来定义 MetaMask 如何和智能合约之间互动,实现MetaMask和去中心化应用之间的连接。",
@@ -14,5 +14,13 @@
         "type":"AA",
         "info":"OKX AA 智能合约钱包结合了外部帐户(EOA)和合约帐户(CA)的优点,提供更高的安全性、方便性与效率,为区块链钱包创建更多可能,降低新手的学习门槛。",
         "id": "1"
+    },
+    "2": {
+        "name": "LEDGER STAX",
+        "website": "https://www.ledger.com",
+        "avatarUrl": "https://www.ledger.com/wp-content/themes/ledger-v2/public/images/ledger-logo-long.svg",
+        "type": "HARD",
+        "info": "Ledger 在安全性上从不妥协。 Ledger 是唯一一款认证的硬件钱包，被《消费者报告》选为最佳硬件钱包，并经由安全专家强化。 我们拥有近十年的经验，以毫不妥协的品质与不断地改进，保护着管理您资产的私钥。 在安全方面，随着时间的推移，韧性至关重要。 我们的 Donjon 安全团队不仅致力于评审 Ledger 的固件和硬件更新，更加致力于对整个生态系统的评审，其工作完全独立于 Ledger 领导层。 这将永远不会改变。",
+        "id": "2"
     }
 }
